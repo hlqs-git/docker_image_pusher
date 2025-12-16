@@ -26,3 +26,16 @@ registry.community.greenbone.net/community/openvas-scanner:stable
 registry.community.greenbone.net/community/openvas-scanner:stable
 registry.community.greenbone.net/community/ospd-openvas:stable
 registry.community.greenbone.net/community/gvm-tools
+cloudflare/cloudflared:latest
+cloudnas/clouddrive2:latest
+filebrowser/filebrowser:s6
+ghcr.io/alexta69/metube:latest
+ghcr.io/metatube-community/metatube-server:latest
+gitea/act_runner
+gitea/gitea
+hectorqin/reader
+jc21/nginx-proxy-manager
+linuxserver/duplicati
+nyanmisaka/jellyfin
+openlistteam/openlist
+vaultwarden/server
