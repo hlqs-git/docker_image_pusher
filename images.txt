@@ -39,3 +39,10 @@ linuxserver/duplicati
 nyanmisaka/jellyfin
 openlistteam/openlist
 vaultwarden/server
+ghcr.io/coreweave/nccl-tests:13.1.0-devel-ubuntu24.04-nccl2.29.2-1-e940cb4
+ghcr.io/coreweave/nccl-tests:13.0.1-devel-ubuntu24.04-nccl2.29.2-1-e940cb4
+ghcr.io/coreweave/nccl-tests:12.9.1-devel-ubuntu24.04-nccl2.29.2-1-e940cb4
+ghcr.io/coreweave/nccl-tests:13.1.0-devel-ubuntu22.04-nccl2.29.2-1-4e5aaa7
+ghcr.io/coreweave/nccl-tests:13.0.1-devel-ubuntu22.04-nccl2.29.2-1-4e5aaa7
+ghcr.io/coreweave/nccl-tests:12.9.1-devel-ubuntu22.04-nccl2.29.2-1-4e5aaa7
+ghcr.io/coreweave/nccl-tests:12.8.1-devel-ubuntu22.04-nccl2.29.2-1-4e5aaa7
