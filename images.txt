@@ -1,3 +1,4 @@
+lscr.io/linuxserver/wireguard
 mongo:4.4
 ghcr.io/jippi/docker-pritunl:latest-minimal
 ghcr.io/wg-easy/wg-easy:latest
